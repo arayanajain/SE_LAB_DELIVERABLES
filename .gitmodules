@@ -1,3 +1,6 @@
 [submodule "L5_16_pet_shelter"]
 	path = L5_16_pet_shelter
 	url = https://github.com/arayanajain/L5_16_pet_shelter.git
+[submodule "L6_L7_16_student_grades"]
+	path = L6_L7_16_student_grades
+	url = https://github.com/arayanajain/L6_L7_16_student_grades.git
