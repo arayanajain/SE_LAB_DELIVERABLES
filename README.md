@@ -12,7 +12,6 @@ This repository contains my Software Engineering Laboratory submissions. Each la
 | [LAB 4](<LAB 4/>) | Application Development | Vibe coding exercise involving the development of a Mastermind game. |
 | [LAB 5](https://github.com/arayanajain/L5_16_pet_shelter) | Static Code Analysis | Analysis and improvement of an Animal Shelter Adoption Register using Pylint, Bandit and Flake8. |
 | [LAB 6](https://github.com/arayanajain/L6_L7_16_student_grades/tree/main/Lab%206) | Code and Branch Coverage | Testing a Student Grades program using pytest and coverage tools. |
-| [LAB 7](https://github.com/arayanajain/L6_L7_16_student_grades/tree/main/Lab%207) 
-
+| [LAB 7](https://github.com/arayanajain/L6_L7_16_student_grades/tree/main/Lab%207) | Fuzz Testing | Applying property-based testing using Hypothesis to test Student Grades functions with a wide range of valid and invalid inputs. |
 
 
